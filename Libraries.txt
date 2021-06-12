@@ -1,0 +1,7 @@
+Libraries required for this project are:
+
+1. tkinter
+2. pillow
+3. sqlite3
+4. messagebox
+5. re

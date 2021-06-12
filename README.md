@@ -22,7 +22,7 @@ Snapshots of the project are shown below:
 
 ![Alt text](https://i.ibb.co/W6mnT1k/1.png "Preview")
 ![Alt text](https://i.ibb.co/Nm1G28T/2.png "Preview")
-https://i.ibb.co/xgJfdxb/3.png
-https://i.ibb.co/kqwwB4V/4.png
-https://i.ibb.co/kBXRFCn/5.png
-https://i.ibb.co/d28YQHw/6.png
+![Alt text](https://i.ibb.co/xgJfdxb/3.png "Preview")
+![Alt text](https://i.ibb.co/kqwwB4V/4.png "Preview")
+![Alt text](https://i.ibb.co/kBXRFCn/5.png "Preview")
+![Alt text](https://i.ibb.co/d28YQHw/6.png "Preview")

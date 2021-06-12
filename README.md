@@ -20,9 +20,9 @@ Few buses that are already registered and added in the database include:
 
 Snapshots of the project are shown below:
 
-[url=https://ibb.co/xjqvd3K][img]https://i.ibb.co/Fw4vCnk/1.png[/img][/url]
-[url=https://ibb.co/nLVV6z6][img]https://i.ibb.co/87RRN6N/2.png[/img][/url]
-[url=https://ibb.co/s5Jh1bQ][img]https://i.ibb.co/gvFGWmw/3.png[/img][/url]
-[url=https://ibb.co/pQncKSH][img]https://i.ibb.co/Vx3RCsF/4.png[/img][/url]
-[url=https://ibb.co/PYqXzGt][img]https://i.ibb.co/pPYVrjn/5.png[/img][/url]
-[url=https://ibb.co/PF6qdSD][img]https://i.ibb.co/ydQHr34/6.png[/img][/url]
+![Alt text](https://i.ibb.co/W6mnT1k/1.png "Preview")
+![Alt text](https://i.ibb.co/Nm1G28T/2.png "Preview")
+https://i.ibb.co/xgJfdxb/3.png
+https://i.ibb.co/kqwwB4V/4.png
+https://i.ibb.co/kBXRFCn/5.png
+https://i.ibb.co/d28YQHw/6.png
